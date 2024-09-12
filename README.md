@@ -8,7 +8,7 @@ I'm looking forward for new technologies. I love to have new experiences & shari
 
 * 🌍  I'm based in Mexico City
 * ✉️  You can contact me at [hugo.peror.04@gmail.com](mailto:hugo.peror.04@gmail.com)
-* 🧠  I'm learning Python, Django, CSS, HTML, Flask, SQL
+* 🧠  I'm learning Python, Django, CSS, HTML, Flask, SQL, QT
 * 🤝  I'm open to collaborating on BackEnd Projects
 
 ### Skills
