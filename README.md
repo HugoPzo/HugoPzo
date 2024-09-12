@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **hugo.peror.04@gmail.com**
 
-- 📄 Know about my experiences [I'm learning everyday a new technology!](I'm learning everyday a new technology!)
+- 📄 Know about my experiences I'm learning everyday a new technology! I'm learning everyday a new technology!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
